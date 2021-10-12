@@ -1,3 +1,4 @@
 # dio-desafio-github-primeiro-repositorio
-desafio de projeto sobre git/github
-##TESTANDO O MD
+
+##Link Uteis
+[Sintaxe Basicas Markdown] (https://www.markdownguide.org/basic-syntax/)
